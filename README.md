@@ -841,11 +841,11 @@ X_test.shape, y_test.shape
 
 The model use recurrent neural network (RNN) to predict the next revenue. More on RNN can be read here:
 
-- https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
+- [https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 
-- https://machinelearningmastery.com/an-introduction-to-recurrent-neural-networks-and-the-math-that-powers-them/
+- [https://machinelearningmastery.com/an-introduction-to-recurrent-neural-networks-and-the-math-that-powers-them/](https://machinelearningmastery.com/an-introduction-to-recurrent-neural-networks-and-the-math-that-powers-them/)
 
-- https://towardsdatascience.com/all-you-need-to-know-about-rnns-e514f0b00c7c
+- [https://towardsdatascience.com/all-you-need-to-know-about-rnns-e514f0b00c7c](https://towardsdatascience.com/all-you-need-to-know-about-rnns-e514f0b00c7c)
 
 
 ```python
